@@ -1,2 +1,2 @@
-# 52factorial.github.io
+# 52fatorial.github.io
 My personal webpage
